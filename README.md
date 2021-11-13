@@ -20,4 +20,4 @@ http://www.stat.cmu.edu/~larry/all-of-statistics/=data/faithful.dat
 
 Eigendecomposition of images 
 ---------------------------------------------------
-Folder nmed "faces" uploaded in repository.
+Face images from The Yale Face Database B, where there are 64 images under different lighting conditions per each of 10 distinct subjects, 640 face images in total.
